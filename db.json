@@ -1,0 +1,163 @@
+{
+    "fending": {
+        "head": [
+
+        ],
+        "body": [
+
+        ],
+        "hands": [
+
+        ],
+        "waist": [
+
+        ],
+        "legs": [
+
+        ],
+        "feet": [
+
+        ],
+        "earrings": [
+
+        ],
+        "necklace": [
+
+        ],
+        "bracelet": [
+
+        ],
+        "rings": [
+
+        ]
+    },
+    "ranged": {
+        "head": [
+
+        ],
+        "body": [
+
+        ],
+        "hands": [
+
+        ],
+        "waist": [
+
+        ],
+        "legs": [
+
+        ],
+        "feet": [
+
+        ],
+        "earrings": [
+
+        ],
+        "necklace": [
+
+        ],
+        "bracelet": [
+
+        ],
+        "rings": [
+
+        ]
+    },
+    "casters": {
+        "head": [
+
+        ],
+        "body": [
+
+        ],
+        "hands": [
+
+        ],
+        "waist": [
+
+        ],
+        "legs": [
+
+        ],
+        "feet": [
+
+        ],
+        "earrings": [
+
+        ],
+        "necklace": [
+
+        ],
+        "bracelet": [
+
+        ],
+        "rings": [
+
+        ]
+    },
+    "healers": {
+        "head": [
+
+        ],
+        "body": [
+
+        ],
+        "hands": [
+
+        ],
+        "waist": [
+
+        ],
+        "legs": [
+
+        ],
+        "feet": [
+
+        ],
+        "earrings": [
+
+        ],
+        "necklace": [
+
+        ],
+        "bracelet": [
+
+        ],
+        "rings": [
+
+        ]
+    },
+    "melee": {
+        "head":[
+  
+        ],
+        "body": [
+  
+        ],
+        "hands": [
+  
+        ],
+        "waist": [
+  
+        ],
+        "legs": [
+  
+        ],
+        "feet": [
+  
+        ],
+        "earrings": [
+  
+        ],
+        "necklace": [
+  
+        ],
+        "bracelet": [
+  
+        ],
+        "rings": [
+            
+        ]
+    }
+
+}
